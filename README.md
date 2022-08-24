@@ -1,4 +1,3 @@
-#Kite Connect .Net library
 
 The official .Net client for communicating with Alice Blue API.
 
