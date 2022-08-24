@@ -20,6 +20,6 @@ KiteConnect targets netstandard2.0. Minimum project target is .NET Core 3.1.
 
 <h1>Getting started</h1>
 
-//import library
+<!--- and --->
 
 
