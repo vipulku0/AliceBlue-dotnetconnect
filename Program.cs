@@ -11,7 +11,7 @@ namespace ALICE_BLUE_CSHARP_SDK
     {
         static void Main(string[] args)
         {
-            AliceBlueDLL.AliceBlue.AliceBlueFunc();
+          AliceBlue.AliceBlueFunc();
         }
     }
 }
