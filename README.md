@@ -9,3 +9,7 @@ Alice Blue is a set of REST-like APIs that expose many capabilities required to 
 <hr>
 
 <h1>Requirments</h1>
+
+KiteConnect targets netstandard2.0. Minimum project target is .NET Core 3.1.
+
+<hr>
