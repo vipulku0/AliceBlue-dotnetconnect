@@ -1,4 +1,6 @@
-<h1>The official .Net client for communicating with Alice Blue API.</h1>
+<h1>Alice Blue .Net library</h1>
+
+The official .Net client for communicating with Alice Blue API.
 
 Alice Blue is a set of REST-like APIs that expose many capabilities required to build a complete investment and trading platform. Execute orders in real time, manage user portfolio, and more, with the simple HTTP API collection.
 
